@@ -1,12 +1,13 @@
-let a = 12;
+let a ;
 console.log(a);
 
-for(let a=1;a<=100;a++){
+for(let a=1;a<=10;a++){
     console.log(a);
-    badCode();
+    //badCode();
 
 }
 
 function badCode(){
     console.log(a);
 }
+
