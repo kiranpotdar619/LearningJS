@@ -10,3 +10,8 @@ console.log(result);
 
 let passing = grades.filter(s => s >60)
 console.log(passing);
+
+let total = grades.reduce((sum,s)=>sum+s,0);
+console.log("Total : "+total);
+
+grades.so
