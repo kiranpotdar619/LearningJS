@@ -14,4 +14,5 @@ console.log(passing);
 let total = grades.reduce((sum,s)=>sum+s,0);
 console.log("Total : "+total);
 
-grades.so
+grades.sort();
+console.log(grades);
