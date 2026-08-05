@@ -3,3 +3,6 @@ function hello(name){
 }
 
 hello("Kiran");
+
+let a=10;
+a= 10;
