@@ -2,12 +2,12 @@
 //     console.log(_1);
 // }
 
-// for (let pramod = 0; pramod > 1; pramod++) {
-//     console.log(pramod);
+// for (let kiran = 0; kiran > 1; kiran++) {
+//     console.log(kiran);
 // }
 
-// for (let pramod = 0; ; pramod++) {
-//     console.log(pramod);
+// for (let kiran = 0; ; kiran++) {
+//     console.log(kiran);
 // }
 
 for (let k = 0; k < 18; k++) {

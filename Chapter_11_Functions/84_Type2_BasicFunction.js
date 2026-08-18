@@ -5,7 +5,7 @@
 function greetByName(name){
       console.log("Hi", name);
 }
-greetByName("Pramod"); // argument
+greetByName("Kiran"); // argument
 greetByName("Dipak");
 greetByName("Meeti");
 greetByName("Sangeetha");
